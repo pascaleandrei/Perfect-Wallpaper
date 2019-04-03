@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+##### Please Scroll down for English version
 
-You can use the [editor on GitHub](https://github.com/pascaleandrei/Perfect-Wallpaper/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# [RO] Politica de confidențialitate a aplicației Perfect Wallpaper
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"Perfect Wallpaper" nu colectează date de la utilizatorii aplicației Perfect Wallpaper. Aplicația solicită acces la stocare, pentru ca utilizatorul să poate încărca o imagine pe care o poate edita și apoi salva în telefon. De asemenea, când utilizatorul distribuie imaginea sau o setează ca fundal, aplicația salvează o copie în telefon.
 
-### Markdown
+## SITE-URI ȘI APLICAȚII TERȚE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+În timpul utilizării aplicației, ați putea fi direcționat către alte aplicații sau site-uri terțe, caz în care se aplică condițiile de utilizare și politica de date personale ale respectivelor site-uri și aplicații.
 
-```markdown
-Syntax highlighted code block
+## CONTACT
 
-# Header 1
-## Header 2
-### Header 3
+Pentru orice nelămurire, puteți contacta "Perfect Wallpaper" la adresa de email:
 
-- Bulleted
-- List
+andreipascale2000@gmail.com
 
-1. Numbered
-2. List
+<br/>
 
-**Bold** and _Italic_ and `Code` text
+# [EN] Privacy Policy of Perfect Wallpaper application
 
-[Link](url) and ![Image](src)
-```
+"Perfect Wallpaper" doesn't collect data from users of the Perfect Wallpaper application. The app asks for storage permission, in order for the user to be able to load photo that he can edit and then save in the phone. Also, when the user shares the image or sets it as the wallpaper, the app saves a copy of it in the phone.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## THIRD PARTY SITES AND APPLICATIONS
 
-### Jekyll Themes
+While using the application, you may be directed to other third-party applications or sites, in which case the terms of use and the personal data policy of those sites and applications apply.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pascaleandrei/Perfect-Wallpaper/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## CONTACT
 
-### Support or Contact
+For any questions, you can contact "Perfect Wallpaper" at:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+andreipascale2000@gmail.com
