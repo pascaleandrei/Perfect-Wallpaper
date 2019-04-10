@@ -2,7 +2,7 @@
 
 # [RO] Politica de confidențialitate a aplicației Perfect Wallpaper
 
-"Perfect Wallpaper" nu colectează date de la utilizatorii aplicației Perfect Wallpaper. Aplicația solicită acces la stocare, pentru ca utilizatorul să poate încărca o imagine pe care o poate edita și apoi salva în telefon. De asemenea, când utilizatorul distribuie imaginea sau o setează ca fundal, aplicația salvează o copie în telefon.
+"Perfect Wallpaper" nu colectează date de la utilizatorii aplicației Perfect Wallpaper. Aplicația solicită acces la stocare, pentru ca utilizatorul să poate încărca o imagine pe care o poate edita și apoi salva în telefon. De asemenea, când utilizatorul distribuie imaginea sau o setează ca fundal, aplicația salvează o copie în telefon. Imaginile nu sunt trimise nicăieri.
 
 ## SITE-URI ȘI APLICAȚII TERȚE
 
@@ -18,7 +18,7 @@ andreipascale2000@gmail.com
 
 # [EN] Privacy Policy of Perfect Wallpaper application
 
-"Perfect Wallpaper" doesn't collect data from users of the Perfect Wallpaper application. The app asks for storage permission, in order for the user to be able to load photo that he can edit and then save in the phone. Also, when the user shares the image or sets it as the wallpaper, the app saves a copy of it in the phone.
+"Perfect Wallpaper" doesn't collect data from users of the Perfect Wallpaper application. The app asks for storage permission, in order for the user to be able to load photo that he can edit and then save in the phone. Also, when the user shares the image or sets it as the wallpaper, the app saves a copy of it in the phone. The images are not sent anywhere.
 
 ## THIRD PARTY SITES AND APPLICATIONS
 
